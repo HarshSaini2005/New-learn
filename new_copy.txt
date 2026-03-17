@@ -1,0 +1,4 @@
+# Today we are added to learn new things 
+1.stash 
+2.pull
+
